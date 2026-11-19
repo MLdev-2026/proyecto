@@ -39,6 +39,7 @@ header p {
 nav {
     background-color: #2e0b16;
     text-align: center;
+    font-weight: normal;
 }
 
 nav ul {
@@ -51,7 +52,9 @@ nav ul {
 nav ul li a {
     display: block;
     color: #ffffff
+    text-decoration: none;
     padding: 1rem 1.5rem;
+    font-weight: bold;
 }
 
 .contenedor {
