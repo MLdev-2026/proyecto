@@ -23,7 +23,7 @@ function evaluarQuiz() {
                 }
             }
 
-            const box = document.getElementById('resultadoBox');
+            const box = document.getElementById('resultado');
             box.style.display = 'block';
 
             if (respondidas < total) {
